@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Fediversal/fediversal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ fediversal
 
-Here are some ideas to get you started:
+### Royal Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:7F00FF&height=260&section=header&text=fediversal&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=900&color=7F00FF&center=true&vCenter=true&width=1000&lines=crypto-native+builder;Web3+Builder;AI+Locked+In;Content+Automation+Engineer" />
+
+</div>
+
+---
+
+```bash
+> aesthetic mode: Royal Web3
+> current state: LOCKED IN
+> mission: build • automate • scale
+> signal: futuristic operator
+```
+
+# 🧠 SYSTEM OVERVIEW
+
+- 🚀 Identity: **crypto-native builder**
+- 🎨 Theme: **Royal Web3**
+- 🧬 Font Stack: **Exo 2**
+- 🌌 Energy: **From terminal windows to billion-dollar ideas.**
+- 🛰️ Focus: AI • Web3 • Vibecoding • Content Systems
+
+---
+
+# ⚔️ TECH ARSENAL
+
+- `Python`
+- `TypeScript`
+- `Solidity`
+- `Docker`
+- `Puppeteer`
+
+---
+
+# 📊 OPERATION METRICS
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fediversal&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=fediversal&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fediversal&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fediversal&theme=tokyonight&no-frame=true&margin-w=12&row=1" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 DIGITAL PRESENCE
+
+```yaml
+status: ONLINE
+mode: HYPER-CREATIVE
+build: FUTURISTIC
+aesthetic: CINEMATIC
+output: RELENTLESS
+```
+
+---
+
+# 🎵 CURRENT SIGNAL
+
+> From terminal windows to billion-dollar ideas.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:0f0f0f&height=120&section=footer" width="100%" />
+
+</div>
